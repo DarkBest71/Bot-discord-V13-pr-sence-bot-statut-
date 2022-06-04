@@ -7,7 +7,7 @@ client.user.setPresence({
   status: "online",
   activities: [
 {
-  name: "🕊️ Sarah actif",
+  name: "🕊️ Bot actif",
   type: "PLAYING"
 }
 ]
